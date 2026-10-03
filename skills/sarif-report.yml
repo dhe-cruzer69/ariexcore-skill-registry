@@ -1,0 +1,4 @@
+name: sarif-report
+version: 0.1.0
+autonomy: 0
+tools: [{ name: emit_sarif }]

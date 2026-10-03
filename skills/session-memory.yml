@@ -1,0 +1,4 @@
+name: session-memory
+version: 0.1.0
+autonomy: 1
+tools: [{ name: compress }]

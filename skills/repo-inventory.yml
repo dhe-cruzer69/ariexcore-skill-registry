@@ -1,0 +1,4 @@
+name: repo-inventory
+version: 0.1.0
+autonomy: 0
+tools: [{ name: list_repos }]

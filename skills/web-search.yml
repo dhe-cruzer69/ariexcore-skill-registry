@@ -1,0 +1,5 @@
+name: web-search
+version: 0.1.0
+autonomy: 1
+tools: [{ name: search, params: { query: string, max_results: int } }]
+security: { allow_list: [search] }
